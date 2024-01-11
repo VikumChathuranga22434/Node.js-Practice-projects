@@ -1,0 +1,4 @@
+what is the nodejs 
+	-> allow to run the js code in the server side of the application
+node roles
+	-> when the client side making a http request i js the node in the server side it compile the code and getting the resources and send back to the browser.
